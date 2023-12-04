@@ -1,0 +1,122 @@
+main
+{
+    display: grid;
+   
+    gap: 24px;
+
+}
+
+
+
+.Daniel-Clifford
+{   background-image: url('images/“.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-color:  #8a55e0;
+    width: 327px;
+height: 444px;
+border-radius: 8px;
+text-align: center;
+}
+
+.head
+{display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+img
+{
+    width: 28px;
+height: 28px;
+}
+
+.name
+{
+    color: #FFF;
+    font-size: 13px;
+    font-weight: 500;
+   
+}
+span
+{
+    color: #FFF;
+    font-size: 11px;
+    font-weight: 500;
+}
+p{
+    width: 263px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.text
+{
+    width: 247px;
+    color: #CFCFCF;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+
+
+
+.Jonathan-Walters
+{
+background-color: #48556A;
+width: 327px;
+height: 240px;
+border-radius: 8px;
+border-radius: 8px;
+text-align: center;
+}
+
+
+.Jeanette-Harmon
+{
+width: 327px;
+height: 222px;
+border-radius: 8px;
+color: #48556A;
+text-align: center;
+}
+.name-1
+{
+color: #48556A;
+}
+.graduate 
+{
+   color: #48556A;
+
+}
+
+.text-1
+{
+    color: #48556A;
+}
+.text-2
+{
+    color: #48556A;
+}
+
+.Patrick-Abrams
+
+{
+    width: 327px;
+height: 384px;
+border-radius: 8px;
+background: #19202D;
+text-align: center;
+}
+
+
+
+.Kira-Whittle
+{
+width: 327px;
+height: 438px;.
+border-radius: 8px;
+text-align: center;
+}

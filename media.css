@@ -1,0 +1,50 @@
+
+@media all and (min-width: 900px) {
+  main {
+    
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 60% 40%;
+    gap: 24px;
+  }
+  
+  
+  .Daniel-Clifford
+  {
+    width: 540px;
+    height: 282px;
+    grid-column: 1/6;
+  }
+
+
+
+  .Jonathan-Walters
+  {
+    width: 540px;
+    height: 282px;
+    grid-column: 6/13;
+  }
+
+  .Jeanette-Harmon
+  {
+    width: 255px;
+   height: 266px;
+    grid-column: 1/5;
+
+  }
+
+
+  .Patrick-Abrams
+  {
+    width: 540px;
+   height: 266px;
+   grid-column: 5/10;
+  }
+
+
+  .Kira-Whittle
+  {
+   width: 255px;
+   height: 572px;
+
+
+  }
